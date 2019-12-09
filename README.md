@@ -8,3 +8,6 @@ The project is a SPA communicating with [Chop Chop](https://chop-chop.org/) back
 2. Run command: npm install
 3. Run command: npm start
 4. Credentials: appdev(login), ih^ZWK06%Y(password).
+
+## Note
+Data for sixth site on the main view can not be loaded - API issue.
